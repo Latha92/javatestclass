@@ -6,7 +6,7 @@ public class testclass {
 		try {
 			
 			System.out.println("Now the output is redirected!");
-			System.out.println("This is the new output111111223333");
+			System.out.println("This is the new output111111223333sqSAssaSaASa");
 			
 		} catch(Exception e) {}
 
